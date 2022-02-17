@@ -1,0 +1,10 @@
+Git add . - for staging
+git commit - for taking screenshot of the staged files
+git push - for pushing changes to remote
+git pull - pulling changes from remote
+git checkout creating new branch
+cd - to change directory
+touch- to create files
+mkdir to create folders
+git status - to check the status of git
+git branch - to change between branch
